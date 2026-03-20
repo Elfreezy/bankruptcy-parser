@@ -42,7 +42,7 @@ DATABASE_URL=postgresql://postgres:postgres@db:5432/postgres
 docker compose up -d
 ```
 
-3. Разместить файл ИНН компаний по пути `scr/<file_name>.xlsx`. Заменить `<file_name>` на имя файла
+3. Разместить файл ИНН компаний по пути `src/<file_name>.xlsx`. Заменить `<file_name>` на имя файла
 
 Структура файла:
 
